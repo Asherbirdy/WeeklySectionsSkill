@@ -1,9 +1,9 @@
 ---
-name: 這週生命讀經分段
-description: Read text file (.txt or .md) from ./text directory, divide content into 7 daily portions, and overwrite the original file
+name: skill * WeeklySections
+description: divide content into 7 daily portions, and overwrite the original file
 ---
 
-# 這週生命讀經分段
+# WeeklySections
 
 This skill reads a text file from the `./text` directory, divides the content evenly into 7 daily portions for weekly reading, and **overwrites the original file** with the formatted result.
 
