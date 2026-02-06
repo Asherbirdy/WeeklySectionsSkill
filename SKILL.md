@@ -49,6 +49,7 @@ This skill reads a text file from the `./text` directory, divides the content ev
 
 ## Important Rules
 
+- **CRITICAL: Never modify original content**: Do NOT change any punctuation marks, characters, whitespace, or empty lines from the original file. Only insert day headers ([週一] to [主日]) before content sections.
 - **Never split a paragraph**: Each paragraph must remain complete and assigned to a single day
 - **Strictly maintain original order**: Paragraphs must be distributed sequentially, preserving the exact order from the source file
 - **Distribute by character count**: Aim for approximately equal character count per day (not paragraph count)
